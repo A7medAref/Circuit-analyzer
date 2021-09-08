@@ -1,0 +1,6 @@
+w 1
+res r1 1 2 2
+res r2 2 0 2
+res r3 2 0 2
+cccs id1 1 0 0 2 r2 3
+stop
